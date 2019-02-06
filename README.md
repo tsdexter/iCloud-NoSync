@@ -2,7 +2,7 @@
 An Automator utility to have iCloud Sync ignore an entire folder without losing access to the folder path
 
 # What is it?
-Tired of iCloud (or `bird`) constantly running in the background uploading and downloading files excessively - especially ones you don't need synced? This workflow adds an 'iCloud-NoSync' option to your context menu in Finder that adds the iCloud `.nosync` extension to any folder and then creates a symbolic link with the original name to the new folder so it doesn't mess up applications that depend on the folder. **this is especially useful for `node_modules` folders!!!**
+Tired of iCloud (or `bird`) constantly running in the background uploading and downloading files excessively - especially ones you don't need synced? This workflow adds an 'iCloud-NoSync' option to your context menu in Finder that adds the iCloud `.nosync` extension to any folder and then creates a symbolic link with the original name to the new folder so it doesn't mess up applications that depend on the folder. **this is especially useful for `node_modules` folders!!!** (speaking of which, if you want this specifically for node_modules, try: https://www.npmjs.com/package/icloud-nosync-node)
 
 # How it works
 - Download the repository and unzip it
