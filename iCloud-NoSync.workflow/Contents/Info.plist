@@ -14,7 +14,7 @@
 			<key>NSMenuItem</key>
 			<dict>
 				<key>default</key>
-				<string>iCloud-NoSync</string>
+				<string>iCloud - no sync</string>
 			</dict>
 			<key>NSMessage</key>
 			<string>runWorkflowAsService</string>
